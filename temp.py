@@ -1,7 +1,7 @@
 import sys
 if len(sys.argv) == 2:
   script_name=sys.argv[0]
-  temp = float(sys.argv[1])
+  temp =(sys.argv[1])
 else:
   script_name=sys.argv[0]
   temp = 15
